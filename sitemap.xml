@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kaijin3ss.com/categories/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/linux/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/posts/deploy-rhel7-on-virtualbox/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/posts/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/categories/%E6%91%B8%E7%88%AC%E6%BB%9A%E6%89%93/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/categories/%E5%8F%91%E5%8F%91%E7%89%A2%E9%AA%9A/</loc>
+    <lastmod>2020-11-30T11:13:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/posts/welcome/</loc>
+    <lastmod>2020-11-30T11:13:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-11-30T11:13:14+08:00</lastmod>
+  </url>
+  
+</urlset>
