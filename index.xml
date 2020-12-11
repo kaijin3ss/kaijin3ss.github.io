@@ -6,25 +6,6 @@
     <description>Recent content on Kaijin三水の杂货铺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <copyright>Kaijin三水的原创文章，转载请注明出处！</copyright>
-    <lastBuildDate>Mon, 30 Nov 2020 11:13:31 +0800</lastBuildDate><atom:link href="https://kaijin3ss.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>使用VirtualBox安装RHEL 7.6虚拟机</title>
-      <link>https://kaijin3ss.com/posts/deploy-rhel7-on-virtualbox/</link>
-      <pubDate>Mon, 30 Nov 2020 11:13:31 +0800</pubDate>
-      
-      <guid>https://kaijin3ss.com/posts/deploy-rhel7-on-virtualbox/</guid>
-      <description>&lt;p&gt;在VirtualBox中安装Red Hat Enterprise Linux 7.6虚拟机过程记录。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>欢迎来到Kaijin三水の杂货铺</title>
-      <link>https://kaijin3ss.com/posts/welcome/</link>
-      <pubDate>Mon, 30 Nov 2020 11:13:14 +0800</pubDate>
-      
-      <guid>https://kaijin3ss.com/posts/welcome/</guid>
-      <description>&lt;p&gt;Impossible = I&amp;rsquo;m possible;&lt;/p&gt;</description>
-    </item>
-    
+    <copyright>Kaijin三水的原创文章，转载请注明出处！</copyright><atom:link href="https://kaijin3ss.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
