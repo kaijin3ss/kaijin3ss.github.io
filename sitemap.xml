@@ -4,18 +4,57 @@
   
   <url>
     <loc>https://kaijin3ss.com/categories/</loc>
+    <lastmod>2021-01-01T10:28:10+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://kaijin3ss.com/</loc>
+    <lastmod>2021-01-01T10:28:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaijin3ss.com/tags/</loc>
+    <loc>https://kaijin3ss.com/posts/welcome-2021/</loc>
+    <lastmod>2021-01-01T10:28:10+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://kaijin3ss.com/posts/</loc>
+    <lastmod>2021-01-01T10:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <lastmod>2021-01-01T10:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/linux/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/virtualbox/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/posts/deploy-rhel7-on-virtualbox/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/categories/%E6%91%B8%E7%88%AC%E6%BB%9A%E6%89%93/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaijin3ss.com/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <lastmod>2020-12-01T08:37:41+08:00</lastmod>
   </url>
   
 </urlset>
